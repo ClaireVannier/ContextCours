@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.dark {
+  background-color: grey;
+  color: peachpuff;
+}
+
+.light,
+.dark {
+  transition: all 2s ease-in-out;
+
+}
